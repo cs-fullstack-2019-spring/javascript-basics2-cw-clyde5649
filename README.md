@@ -11,3 +11,26 @@ Create a variable. Ask the user to “Enter your number grade”. Ask the user �
 
 ### Question 4
 Create a variable called balance and save it after asking the user “What is your balance?”. Create a variable called deduction and save it when asking the user “How much do you want to deduct?” Print the remaining balance after subtracting the deduction.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+
+
+var myName=("clyde");
+var name=("kenn");
+
+("myName");
+
+console.log("myName + name")
+
+</script>
+
+
+</body>
